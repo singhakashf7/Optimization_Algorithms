@@ -1,4 +1,5 @@
 # Optimization_Algorithms
+### Note : Run the notebook in order to see the animations, because of notebook size restrictions i removed them from outputs
 #### Project Overview: Sequential Analysis of Optimization Algorithms
 This project is an in-depth exploration of first-order optimization algorithms, focusing on Gradient Descent (GD) and its variants. The notebook presents a sequential analysis, demonstrating how each algorithm builds upon and addresses the limitations of the previous ones.
 
